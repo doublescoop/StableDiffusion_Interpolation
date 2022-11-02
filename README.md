@@ -2,6 +2,7 @@
 Deforum's [Stable Diffusion](https://github.com/CompVis/stable-diffusion) Colab with video interpolation feature from [FILM](https://github.com/nerdyrodent/frame-interpolation)
 
 This notebook was created to support interpolation between frames for Stable Diffusion outputs.
+It is useful when each frame created by a Diffusion model looks great but changing dramatically between frames. 
 
 Users can specify frame# to start and end the interpolation.
 
