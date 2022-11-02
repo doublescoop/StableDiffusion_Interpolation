@@ -1,5 +1,5 @@
 # StableDiffusion_Interpolation
-Deforum's Stable Diffusion Colab with video interpolation feature from FILM
+Deforum's [Stable Diffusion](https://github.com/CompVis/stable-diffusion) Colab with video interpolation feature from [FILM](https://github.com/nerdyrodent/frame-interpolation)
 
 This notebook was created to support interpolation between frames for Stable Diffusion outputs. 
 
