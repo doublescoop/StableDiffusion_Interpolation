@@ -1,5 +1,7 @@
 # StableDiffusion_Interpolation
 Deforum's Stable Diffusion Colab with video interpolation feature from FILM
+This notebook was created to support interpolation between frames for Stable Diffusion outputs. 
+
 
 Access Google Colab implementation at:
 
