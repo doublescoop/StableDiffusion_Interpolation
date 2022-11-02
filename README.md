@@ -13,6 +13,9 @@ https://colab.research.google.com/drive/1FLVbs3qQsJczxCGwNX5Jx7z0O5lyg-gi?usp=sh
 
 
 
+Created and maintained by @doublescoop
+
+
 
 
 
